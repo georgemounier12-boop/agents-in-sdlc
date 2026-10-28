@@ -13,7 +13,7 @@ Has dirigido a un agente por un flujo de trabajo de desarrollo completo, desde u
 Has:
 
 - creado un proyecto local en modo Interactive.
-- creado y perfeccionado un cuestionario con información del explorador en tiempo real.
+- creado y perfeccionado un cuestionario con respuesta inmediata en el navegador.
 - inspeccionado los detalles de la sesión y ejecutado una prueba de humo en el explorador.
 - recogido las reglas del proyecto con `/init`.
 - publicado el proyecto como repositorio de GitHub.

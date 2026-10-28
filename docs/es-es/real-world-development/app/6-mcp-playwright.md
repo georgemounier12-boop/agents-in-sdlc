@@ -40,7 +40,7 @@ Los servidores MCP se gestionan desde **Customize** en la barra lateral. Los ser
 
 1. Selecciona **Customize** en la barra lateral.
 2. Selecciona **MCP** y comprueba en **Installed** si ya existe un servidor de Playwright.
-3. Si es necesario, busca **Playwright** entre los servidores disponibles o utiliza el procedimiento de servidor personalizado documentado por el editor.
+3. Si Playwright aún no está instalado, búscalo entre los servidores disponibles y selecciona **Add server**.
 4. Revisa el editor, la configuración y cualquier solicitud de instalación antes de aprobarla. Sigue las indicaciones para añadir el servidor; las directivas de la organización o la falta de requisitos previos pueden bloquear la configuración.
 5. Vuelve a la sesión de filtrado en modo **Interactive** y confirma que las herramientas MCP de Playwright están disponibles.
 
@@ -56,12 +56,12 @@ La incidencia y tus decisiones de planificación ya están en el contexto. Deté
     Start the app and use Playwright MCP to check filtering against the issue and our plan. Tell me what works and what doesn't, without making changes. Stop the server you started when you're done.
     ```
 
-  > [!NOTE]
-  > No es obligatorio indicar a Copilot que utilice un servidor MCP concreto; normalmente encontrará el adecuado según el contexto actual. Sin embargo, nunca está de más indicarle algo que consideras importante.
+> [!NOTE]
+> No es obligatorio indicar a Copilot que utilice un servidor MCP concreto; normalmente encontrará el adecuado según el contexto actual. Sin embargo, nunca está de más indicarle algo que consideras importante.
 
-  2. Observa cómo trabaja.
+2. Observa cómo trabaja.
 
-  Copilot iniciará el servidor, abrirá un navegador e interactuará con el sitio web. Cuando termine, detendrá el servidor y te proporcionará un informe.
+Copilot iniciará el servidor, abrirá un navegador e interactuará con el sitio web. Cuando termine, detendrá el servidor y te proporcionará un informe.
 
 ## Resumen y pasos siguientes
 
